@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "other_info": {"is_today_peak":true,"is_today_trending":false},
+        "rating": {"number":4.6, "badge":"Excellent"},
+        "author": {"name":"Jhon","published_date":"","img":""},
+        "category_id":1,
+        "total_view":450,
+        "title":"Neymar trains again with Saudi",
+        "thumnnil_url":"",
+        "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABbdQ8sb-0dAMMhZn5Kx12tkCus38vrhYeg&s",
+        "details": " Happy to be back in the group, \"Neymar posted on Instagram, with pictures of him running and kicking the ball, watched by Al Hilal's Portuguese coach Jorge Jesus "        
+    },
+    {
+        "id":2,
+        "other_info": {"is_today_peak":true,"is_today_trending":false},
+        "rating": {"number":4.6, "badge":"Excellent"},
+        "author": {"name":"Jhon","published_date":"","img":""},
+        "category_id":1,
+        "total_view":450,
+        "title":"Potato, onion prices fall",
+        "thumnnil_url":"",
+        "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsS6JeQKz77IOQ3sWFkwNasmlBuDukXNuWCA&s",
+        "details": "Suga,  a member of the globally popular K-pop band BTShas been fined 15 million won (US $11,500) for operating an electric scooter while under the influence of alcohol, according to Seoul media reports. The 31-year-old rapper, whose real name is Min Yoon-gi, was charged in August after police discovered him intoxicated and attempting to stand up after falling from his scooter near his residence in Seoul. His blood alcohol content was reported to be 0.227%, well above South Korea's legal limit of 0.08%, as confirmed by the authorities."
+                   
+    },
+    {
+        "id":3,
+        "other_info": {"is_today_peak":true,"is_today_trending":false},
+        "rating": {"number":4.6, "badge":"Excellent"},
+        "author": {"name":"Jhon","published_date":"","img":""},
+        "category_id":1,
+        "total_view":460,
+        "title":"BTS star Suga fined",
+        "thumnnil_url":"",
+        "image_url":"https://static.independent.co.uk/2024/08/03/19/Bangladesh_Campus_Violence_88916.jpg?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp",
+        "details": "Following the incident in August, Suga issued a public apology, acknowledging his responsibility for the event. \"I thought the distance was close enough to drive, but I forgot that operating an electric scooter under the influence is still illegal,\" he said. \"Though no one was hurt and no property was damaged, I take full responsibility for my actions. I sincerely apologise to those who were affected by my carelessness. "        
+    }
+]
